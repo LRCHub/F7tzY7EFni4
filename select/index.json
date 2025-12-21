@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "愛の毒",
+  "base_artist": "My Hair Is Bad",
+  "createdAt": "2025-12-21T04:48:33.476022Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛の毒",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/01_愛の毒_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛の毒",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_愛の毒_My_Hair_is_Bad.txt"
+    }
+  ]
+}
